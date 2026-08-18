@@ -1,0 +1,20 @@
+root = true
+
+[*]
+charset = utf-8
+end_of_line = crlf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# C# source follows the existing tabs convention
+[*.cs]
+indent_style = tab
+indent_size = tab
+
+# XML files (project, solution, resources, config) use 2-space indentation
+[*.{csproj,sln,resx,settings,config}]
+indent_style = space
+indent_size = 2
+
+[*.md]
+trim_trailing_whitespace = false

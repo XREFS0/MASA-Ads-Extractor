@@ -1,0 +1,107 @@
+Messages*Voulez-vous sortir?*
+Messages*Personne serveur proxy disponible!*
+Messages*Voulez-vous supprimer {0} lignes de la liste?*
+Messages*Voulez-vous supprimer toutes les lignes de la liste?*
+Messages*Total proxies {0}, checked {1}, available {2}*
+Messages*Code ou courrier electronique incorrect. Veuillez reessayer!*
+Messages*Pour extraire plus de 35 elements ou exporter des donnees, vous devez posseder la version complete de MASA Ads Extractor. Voulez-vous acheter la version complete maintenant?*
+Messages*Prière d'abord de rechercher la recherche et cliquez sur CAPTURE seulement apres l'apparition des resultats dans la page*
+Messages*Aucune donnee a exporter. Faites d'abord la recherche, puis cliquez sur CAPTURE*
+Messages*Aucune donnee n'est selectionnee pour l'exportation. Cliquez sur Selectionner et puis sur Export*
+Messages*Operation terminee avec succes*
+Messages*Arrete par l'utilisateur!*
+MainForm*splitContainer*
+MainForm**
+MainForm*webBrowser*
+MainForm*panel2*
+MainForm*btnExport*EXPORT
+MainForm*btnGetData*CAPTURE
+MainForm*btnStop*STOP Capture
+MainForm*btnSelectAll*SELECTION
+MainForm*btnDeleteAll*Effacer tout
+MainForm*btnClearSelection*Annuler
+MainForm*btnDeleteSelected*Effacer Sel.
+MainForm**
+MainForm*dgvResults*
+MainForm**
+MainForm**
+MainForm*panel1*
+MainForm*bnWebrowserGo*
+MainForm*tbWebbrowserUrl*
+MainForm*label1*Adresse:
+MainForm*btnWebbrowserStop*
+MainForm*btnWebbrowserRefresh*
+MainForm*btnWebbrowserForward*
+MainForm*btnWebbrowserBack*
+MainForm*btnBrowserHome*
+MainForm*statusStrip*statusStrip1
+MainForm**
+MainForm*menuStrip*menuStrip1
+Menu*fileToolStripMenuItem*File
+Menu*exportToolStripMenuItem*Export...
+Menu*exitToolStripMenuItem*Sortir
+Menu*websitesToolStripMenuItem*SITES
+Menu*settingsToolStripMenuItem*Settings
+DataGridView*category*Source
+DataGridView*business_name*Ad Title
+DataGridView*address*Description
+DataGridView*city*Advertiser
+DataGridView*state*Location
+DataGridView*postal_code*Ad Type
+DataGridView*country*Date
+DataGridView*phone*Phone
+DataGridView*fax*Price
+DataGridView*website*Image
+DataGridView*email*Email
+DataGridView*map_link*Note
+DataGridView*details_link*Details Link
+ProxiesForm*lblInfo*Proxy de recherche...
+ProxiesForm*dgv*
+ProxiesForm**
+ProxiesForm**
+ProxiesForm*label1*Serveurs proxy disponibles
+SettingsForm*tabControl*
+SettingsForm*tabPage1*Donnes
+SettingsForm*cbLanguage*
+SettingsForm*label10*Langue d'interface
+SettingsForm*cbExtractEmails*Extraire email du site Web (application plus lente)
+SettingsForm*cbCSVEncoding*
+SettingsForm*label5*Encoding
+SettingsForm*cbCSVDelimiter*
+SettingsForm*label4*Separateur de colonnes CSV
+SettingsForm*cbExportType*
+SettingsForm*label3*Format de sortie
+SettingsForm*btnChooseExportFolder*Choisir
+SettingsForm*tbExportPath*
+SettingsForm*rbAutoExport*Exporter les resultats automatiquement dans un dossier
+SettingsForm*rbManualExport*Exporter les resultats manuellement
+SettingsForm*cblExport*
+SettingsForm*label2*Colonnes a exporter
+SettingsForm*cblShow*
+SettingsForm*label1*Afficher les resultats dans le tableau
+SettingsForm*tabPage2*Connection
+SettingsForm*tbDelayTo*
+SettingsForm*tbDelayFrom*
+SettingsForm*label12*a
+SettingsForm*label11*Retard de
+SettingsForm*cbRandomDelay*Utilisez delai aleatoire entre les demandes
+SettingsForm*rbUseVPN*Utilisez VPN pour cacher votre adresse IP
+SettingsForm*tbProxyAuthPassword*
+SettingsForm*tbProxyAuthUsername*
+SettingsForm*label9*Password:
+SettingsForm*label8*Username:
+SettingsForm*tbFreeProxiesList*
+SettingsForm*tbRandomProxyList*
+SettingsForm*cbAuthentification*Serveur proxy requiert authentification
+SettingsForm*tbProxyServerPort*
+SettingsForm*label7*port:
+SettingsForm*tbProxyServerIP*
+SettingsForm*label6*Proxy server IP:
+SettingsForm*rbFreeProxiesList*Utilisez listes de proxies libres (une source par ligne)
+SettingsForm*rbRundomProxyList*Utilisez proxies au hasard de la liste (serveur:port)
+SettingsForm*rbUseSingleProxy*Utiliser proxy unique
+SettingsForm*rbNoProxy*Ne pas utiliser des serveurs proxy
+SettingsForm*panel*
+SettingsForm*btnCancel*Annuler
+SettingsForm*btnOk*Ok
+

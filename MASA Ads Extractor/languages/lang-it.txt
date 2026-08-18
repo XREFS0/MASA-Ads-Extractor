@@ -1,0 +1,107 @@
+Messages*Vuoi davvero uscire dall'applicazione?*
+Messages*Non ci sono proxy server disponibili!*
+Messages*Vuoi cancellare le {0} righe dalla lista?*
+Messages*Vuoi cancellare tutti i dati dalla lista?*
+Messages*Total proxies {0}, selezionati {1}, disponibili {2}*
+Messages*Codice o email non corretti. Riprova!*
+Messages*Per catturare ed estrarre piu' di 35 risultati e' necessario acquistare la versione completa di MASA Ads Extractor. Vuoi acquistare la licenza?*
+Messages*Si prega di fare prima la ricerca desiderata, attendere che si apra la prima pagina dei risultati e infine cliccare su CATTURA*
+Messages*Non ci sono dati da esportare. Effettua prima la ricerca e poi clicca su CATTURA*
+Messages*Non ci sono dati selezionati per l'export. Clicca su Seleziona e poi su Esporta*
+Messages*Processo completato!*
+Messages*Fermato da utente!*
+MainForm*splitContainer*
+MainForm**
+MainForm*webBrowser*
+MainForm*panel2*
+MainForm*btnExport*ESPORTA
+MainForm*btnGetData*CATTURA DATI
+MainForm*btnStop*STOP Cattura
+MainForm*btnSelectAll*SELEZIONA
+MainForm*btnDeleteAll*Canc. Tutto
+MainForm*btnClearSelection*Annulla Selez.
+MainForm*btnDeleteSelected*Elimina Selez.
+MainForm**
+MainForm*dgvResults*
+MainForm**
+MainForm**
+MainForm*panel1*
+MainForm*bnWebrowserGo*
+MainForm*tbWebbrowserUrl*
+MainForm*label1*Indirizzo:
+MainForm*btnWebbrowserStop*
+MainForm*btnWebbrowserRefresh*
+MainForm*btnWebbrowserForward*
+MainForm*btnWebbrowserBack*
+MainForm*btnBrowserHome*
+MainForm*statusStrip*statusStrip1
+MainForm**
+MainForm*menuStrip*menuStrip1
+Menu*fileToolStripMenuItem*File
+Menu*exportToolStripMenuItem*Esporta...
+Menu*exitToolStripMenuItem*Esci
+Menu*websitesToolStripMenuItem*Sorgenti
+Menu*settingsToolStripMenuItem*Impostazioni
+DataGridView*category*Sorgente
+DataGridView*business_name*Titolo Annuncio
+DataGridView*address*Descrizione
+DataGridView*city*Inserzionista
+DataGridView*state*Localita
+DataGridView*postal_code*Tipologia
+DataGridView*country*Data
+DataGridView*phone*Telefono
+DataGridView*fax*Prezzo
+DataGridView*website*Foto
+DataGridView*email*Email
+DataGridView*map_link*Note
+DataGridView*details_link*Link Dettagli
+ProxiesForm*lblInfo*Ricerca proxies...
+ProxiesForm*dgv*
+ProxiesForm**
+ProxiesForm**
+ProxiesForm*label1*Proxy server disponibili
+SettingsForm*tabControl*
+SettingsForm*tabPage1*Data
+SettingsForm*cbLanguage*
+SettingsForm*label10*Lingua Interfaccia
+SettingsForm*cbExtractEmails*Estrai email dai siti web (app piu' lenta)
+SettingsForm*cbCSVEncoding*
+SettingsForm*label5*Codifica
+SettingsForm*cbCSVDelimiter*
+SettingsForm*label4*Separatore colonne CSV
+SettingsForm*cbExportType*
+SettingsForm*label3*Formato File di Export
+SettingsForm*btnChooseExportFolder*Scegli
+SettingsForm*tbExportPath*
+SettingsForm*rbAutoExport*Esporta risultati automaticamente nella cartella
+SettingsForm*rbManualExport*Esporta manualmente i risultati
+SettingsForm*cblExport*
+SettingsForm*label2*Colonne da Esportare
+SettingsForm*cblShow*
+SettingsForm*label1*Mostra nella tabella dei risultati
+SettingsForm*tabPage2*Connessione
+SettingsForm*tbDelayTo*
+SettingsForm*tbDelayFrom*
+SettingsForm*label12*a
+SettingsForm*label11*Ritardo da
+SettingsForm*cbRandomDelay*Usa ritardo casuale tra le richieste
+SettingsForm*rbUseVPN*Usa programma VPN per nascondere e proteggere il tuo IP
+SettingsForm*tbProxyAuthPassword*
+SettingsForm*tbProxyAuthUsername*
+SettingsForm*label9*Password:
+SettingsForm*label8*Username:
+SettingsForm*tbFreeProxiesList*
+SettingsForm*tbRandomProxyList*
+SettingsForm*cbAuthentification*Proxy server richiede autenticazione
+SettingsForm*tbProxyServerPort*
+SettingsForm*label7*porta:
+SettingsForm*tbProxyServerIP*
+SettingsForm*label6*Proxy server IP:
+SettingsForm*rbFreeProxiesList*Usa lista di proxy gratuiti (inserisci un proxy per riga)
+SettingsForm*rbRundomProxyList*Usa proxy casuali dalla lista (formato riga server:porta)
+SettingsForm*rbUseSingleProxy*Usa proxy singolo
+SettingsForm*rbNoProxy*Non usare proxy server
+SettingsForm*panel*
+SettingsForm*btnCancel*Annulla
+SettingsForm*btnOk*Ok
+

@@ -1,0 +1,26 @@
+# Build results
+bin/
+obj/
+*.nupkg
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Local deployment / release folder (compiled app, binaries, commercial DLLs)
+ori/
+
+# Third-party commercial dependencies - NOT redistributable under their licenses.
+# Obtain them yourself and place them in MASA Ads Extractor\lib\ (see lib/README.md)
+**/lib/*.dll
+**/lib/*.xml
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log

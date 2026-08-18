@@ -1,0 +1,107 @@
+Messages*Mochten Sie die App verlassen?*
+Messages*Kein Proxy-Server verfügbar!*
+Messages*Mochten Sie {0} Zeilen aus der Liste loschen*
+Messages*Mochten Sie alle Zeilen aus der Liste loschen?*
+Messages*Total Proxies {0}, geprüft {1}, verfügbar {2}*
+Messages*Falscher Code oder E-Mail. Bitte versuche es erneut!*
+Messages*Um mehr als 35 Artikel zu extrahieren oder Daten zu exportieren, solltest du die Vollversion von MASA Ads Extractor besitzen. Mochten Sie jetzt die Vollversion kaufen?*
+Messages*Bitte machen Sie zuerst die gewünschte Suche und klicken Sie auf GET DATA nur, nachdem die Ergebnisse auf der Seite angezeigt werden*
+Messages*Keine Daten zum Exportieren. Bitte machen Sie zuerst die Suche und klicken Sie dann auf GET DATA*
+Messages*Es werden keine Daten zum Export ausgewählt. Bitte zuerst die Auswahl treffen und dann auf Export klicken*
+Messages*Verarbeitung erfolgt!*
+Messages*Gestoppt!*
+MainForm*splitContainer*
+MainForm**
+MainForm*webBrowser*
+MainForm*panel2*
+MainForm*btnExport*EXPORT
+MainForm*btnGetData*GET DATA
+MainForm*btnStop*STOP
+MainForm*btnSelectAll*AUSWAHLEN
+MainForm*btnDeleteAll*Loschen All
+MainForm*btnClearSelection*Stornierung
+MainForm*btnDeleteSelected*Loschen Sel.
+MainForm**
+MainForm*dgvResults*
+MainForm**
+MainForm**
+MainForm*panel1*
+MainForm*bnWebrowserGo*
+MainForm*tbWebbrowserUrl*
+MainForm*label1*Adresse:
+MainForm*btnWebbrowserStop*
+MainForm*btnWebbrowserRefresh*
+MainForm*btnWebbrowserForward*
+MainForm*btnWebbrowserBack*
+MainForm*btnBrowserHome*
+MainForm*statusStrip*statusStrip1
+MainForm**
+MainForm*menuStrip*menuStrip1
+Menu*fileToolStripMenuItem*File
+Menu*exportToolStripMenuItem*Export...
+Menu*exitToolStripMenuItem*Ausgang
+Menu*websitesToolStripMenuItem*Webseiten
+Menu*settingsToolStripMenuItem*Einstellungen
+DataGridView*category*Source
+DataGridView*business_name*Ad Title
+DataGridView*address*Description
+DataGridView*city*Advertiser
+DataGridView*state*Location
+DataGridView*postal_code*Ad Type
+DataGridView*country*Date
+DataGridView*phone*Phone
+DataGridView*fax*Price
+DataGridView*website*Image
+DataGridView*email*Email
+DataGridView*map_link*Note
+DataGridView*details_link*Details Link
+ProxiesForm*lblInfo*Suche nach Proxies...
+ProxiesForm*dgv*
+ProxiesForm**
+ProxiesForm**
+ProxiesForm*label1*Verfügbare Proxy-Server
+SettingsForm*tabControl*
+SettingsForm*tabPage1*Daten
+SettingsForm*cbLanguage*
+SettingsForm*label10*Schnittstellensprache
+SettingsForm*cbExtractEmails*E-Mail aus der Website extrahieren (langsamer App)
+SettingsForm*cbCSVEncoding*
+SettingsForm*label5*Encoding
+SettingsForm*cbCSVDelimiter*
+SettingsForm*label4*CSV-Datei Spalten Trennzeichen
+SettingsForm*cbExportType*
+SettingsForm*label3*Dateiformat fur Datenexportdaten
+SettingsForm*btnChooseExportFolder*Wahlen
+SettingsForm*tbExportPath*
+SettingsForm*rbAutoExport*Ergebnisse automatisch in einen Ordner exportieren
+SettingsForm*rbManualExport*Ergebnisse manuell exportieren
+SettingsForm*cblExport*
+SettingsForm*label2*Spalten zum Exportieren
+SettingsForm*cblShow*
+SettingsForm*label1*In der Ergebnisliste anzeigen
+SettingsForm*tabPage2*Verbindung
+SettingsForm*tbDelayTo*
+SettingsForm*tbDelayFrom*
+SettingsForm*label12*bis
+SettingsForm*label11*Verzögerung von
+SettingsForm*cbRandomDelay*Zufallige Verzogerung
+SettingsForm*rbUseVPN*Verwenden Sie VPN, um Ihre IP zu verbergen
+SettingsForm*tbProxyAuthPassword*
+SettingsForm*tbProxyAuthUsername*
+SettingsForm*label9*Password:
+SettingsForm*label8*Username:
+SettingsForm*tbFreeProxiesList*
+SettingsForm*tbRandomProxyList*
+SettingsForm*cbAuthentification*Authentifizierung Proxy-Server 
+SettingsForm*tbProxyServerPort*
+SettingsForm*label7*port:
+SettingsForm*tbProxyServerIP*
+SettingsForm*label6*Proxy server IP:
+SettingsForm*rbFreeProxiesList*Proxies-Listen (eine Quelle pro Zeile)
+SettingsForm*rbRundomProxyList*Zufalliger Proxy (Server: Port)
+SettingsForm*rbUseSingleProxy*Einzelproxy
+SettingsForm*rbNoProxy*Keine Proxy-Server
+SettingsForm*panel*
+SettingsForm*btnCancel*Stornieren
+SettingsForm*btnOk*Ok
+

@@ -1,0 +1,23 @@
+# Normalize line endings on check-in, keep CRLF for Windows-centric files
+* text=auto
+
+*.cs text eol=crlf
+*.csproj text eol=crlf
+*.sln text eol=crlf
+*.resx text eol=crlf
+*.settings text eol=crlf
+*.config text eol=crlf
+*.txt text eol=crlf
+*.md text eol=crlf
+
+# Binary assets
+*.ico binary
+*.jpg binary
+*.png binary
+*.dll binary
+
+# Decompiled third-party interop and designer-generated files:
+# keep them out of the language stats and diff noise
+Microsoft/Office/Interop/Excel/*.cs linguist-generated=true
+MASA_Ads_Extractor/*.Designer.cs linguist-generated=true
+MASA_Ads_Extractor/Properties/*.Designer.cs linguist-generated=true

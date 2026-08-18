@@ -1,0 +1,107 @@
+Messages*Quieres salir?*
+Messages*No hay servidor proxy disponible!*
+Messages*Desea eliminar {0} filas de la lista?*
+Messages*Desea eliminar todas las filas de la lista?*
+Messages*Proxies totales {0}, marcados {1}, disponibles {2}*
+Messages*Correo o codigo erroneo. Por favor, intentelo de nuevo!*
+Messages*Para extraer o exportar más de 35 articulos debe poseer la version completa de MASA Ads Extractor. Quieres comprar la version completa ahora?*
+Messages*Por favor, haga primero la busqueda que desea y haga clic en CAPTURAR solo despues de que los resultados aparezcan en la pagina*
+Messages*No hay datos para exportar. Haga primero la busqueda y luego haga clic en CAPTURAR*
+Messages*No hay datos seleccionados para exportar. Haga primero la seleccion y luego haga clic en Export*
+Messages*El procesamiento está hecho!*
+Messages*Detenido por el usuario!*
+MainForm*splitContainer*
+MainForm**
+MainForm*webBrowser*
+MainForm*panel2*
+MainForm*btnExport*EXPORT
+MainForm*btnGetData*CAPTURAR
+MainForm*btnStop*DETENER
+MainForm*btnSelectAll*SELEC. TODO
+MainForm*btnDeleteAll*Eliminar
+MainForm*btnClearSelection*Canc. Sel.
+MainForm*btnDeleteSelected*Eliminar Sel.
+MainForm**
+MainForm*dgvResults*
+MainForm**
+MainForm**
+MainForm*panel1*
+MainForm*bnWebrowserGo*
+MainForm*tbWebbrowserUrl*
+MainForm*label1*Direccion:
+MainForm*btnWebbrowserStop*
+MainForm*btnWebbrowserRefresh*
+MainForm*btnWebbrowserForward*
+MainForm*btnWebbrowserBack*
+MainForm*btnBrowserHome*
+MainForm*statusStrip*statusStrip1
+MainForm**
+MainForm*menuStrip*menuStrip1
+Menu*fileToolStripMenuItem*File
+Menu*exportToolStripMenuItem*Export...
+Menu*exitToolStripMenuItem*Salida
+Menu*websitesToolStripMenuItem*Sitios Web
+Menu*settingsToolStripMenuItem*Ajustes
+DataGridView*category*Source
+DataGridView*business_name*Ad Title
+DataGridView*address*Description
+DataGridView*city*Advertiser
+DataGridView*state*Location
+DataGridView*postal_code*Ad Type
+DataGridView*country*Date
+DataGridView*phone*Phone
+DataGridView*fax*Price
+DataGridView*website*Image
+DataGridView*email*Email
+DataGridView*map_link*Note
+DataGridView*details_link*Details Link
+ProxiesForm*lblInfo*Buscando proxies...
+ProxiesForm*dgv*
+ProxiesForm**
+ProxiesForm**
+ProxiesForm*label1*Servidores proxy disponibles
+SettingsForm*tabControl*
+SettingsForm*tabPage1*Datos
+SettingsForm*cbLanguage*
+SettingsForm*label10*Idioma de interfaz
+SettingsForm*cbExtractEmails*Extraer email del sitio web (aplicacion mas lenta)
+SettingsForm*cbCSVEncoding*
+SettingsForm*label5*Encoding
+SettingsForm*cbCSVDelimiter*
+SettingsForm*label4*Separador de columnas CSV
+SettingsForm*cbExportType*
+SettingsForm*label3*Formato de archivo de salida
+SettingsForm*btnChooseExportFolder*Escoger
+SettingsForm*tbExportPath*
+SettingsForm*rbAutoExport*Exportar resultados automaticamente a una carpeta
+SettingsForm*rbManualExport*Exportar resultados manualmente
+SettingsForm*cblExport*
+SettingsForm*label2*Columnas para exportar
+SettingsForm*cblShow*
+SettingsForm*label1*Mostrar en tabla resultados
+SettingsForm*tabPage2*Conexion
+SettingsForm*tbDelayTo*
+SettingsForm*tbDelayFrom*
+SettingsForm*label12*a
+SettingsForm*label11*Retraso de
+SettingsForm*cbRandomDelay*Usar retardo aleatorio entre solicitudes
+SettingsForm*rbUseVPN*Utilice VPN para ocultar su IP
+SettingsForm*tbProxyAuthPassword*
+SettingsForm*tbProxyAuthUsername*
+SettingsForm*label9*Password:
+SettingsForm*label8*Username:
+SettingsForm*tbFreeProxiesList*
+SettingsForm*tbRandomProxyList*
+SettingsForm*cbAuthentification*Proxy requiere autenticacion
+SettingsForm*tbProxyServerPort*
+SettingsForm*label7*port:
+SettingsForm*tbProxyServerIP*
+SettingsForm*label6*Proxy server IP:
+SettingsForm*rbFreeProxiesList*Listas proxies gratuitas (una fuente por linea)
+SettingsForm*rbRundomProxyList*Proxy aleatorio de la lista (server: port)
+SettingsForm*rbUseSingleProxy*Usar un solo proxy
+SettingsForm*rbNoProxy*No utilice server proxy
+SettingsForm*panel*
+SettingsForm*btnCancel*Cancelar
+SettingsForm*btnOk*Ok
+
